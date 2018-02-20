@@ -1,0 +1,1 @@
+private_key_path = "/mnt/c/Users/micha/.aws/centos.pem"
